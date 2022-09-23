@@ -21,3 +21,21 @@ Classification of users per XP Level
     <img src="images/last_of_us_table.png" alt="Logo" width="1013" height="508">
   </a>
 </div>
+
+## Scavengers Table
+
+<br />
+<div align="center">
+  <a href="https://github.com/Metanomic/bayesian_networks_example">
+    <img src="images/scavengers_table.png" alt="Logo" width="616" height="582">
+  </a>
+</div>
+
+## Stealth Player Table
+
+<br />
+<div align="center">
+  <a href="https://github.com/Metanomic/bayesian_networks_example">
+    <img src="images/stealth_table.png" alt="Logo" width="622" height="586">
+  </a>
+</div>

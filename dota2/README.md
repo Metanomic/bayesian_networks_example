@@ -20,3 +20,13 @@ Classification of users per XP Level
     <img src="images/dota2_table.png" alt="Logo" width="1005" height="508">
   </a>
 </div>
+
+## Big Spender Table
+
+<br />
+<div align="center">
+  <a href="https://github.com/Metanomic/bayesian_networks_example">
+    <img src="images/spender_table.png" alt="Logo" width="652" height="578">
+  </a>
+</div>
+
