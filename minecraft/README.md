@@ -58,3 +58,30 @@ Paths:
     <img src="images/scientist_chain.png" alt="Logo" width="789" height="630">
   </a>
 </div>
+
+## Farmers Table
+
+<br />
+<div align="center">
+  <a href="https://github.com/Metanomic/bayesian_networks_example">
+    <img src="images/farmers_table.png" alt="Logo" width="594" height="852">
+  </a>
+</div>
+
+## Killers Table
+
+<br />
+<div align="center">
+  <a href="https://github.com/Metanomic/bayesian_networks_example">
+    <img src="images/killers_table.png" alt="Logo" width="712" height="976">
+  </a>
+</div>
+
+## Scientists Table
+
+<br />
+<div align="center">
+  <a href="https://github.com/Metanomic/bayesian_networks_example">
+    <img src="images/scientists_table.png" alt="Logo" width="706" height="984">
+  </a>
+</div>
