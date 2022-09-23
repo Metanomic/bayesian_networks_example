@@ -4,8 +4,8 @@
 - Looter
 - Achiever
 
+<br />
 Sum of users per Classification
-
 <br />
 <div align="center">
   <a href="https://github.com/Metanomic/bayesian_networks_example">
@@ -13,9 +13,8 @@ Sum of users per Classification
   </a>
 </div>
 
-
+<br />
 Classification of users per XP Level
-
 <br />
 <div align="center">
   <a href="https://github.com/Metanomic/bayesian_networks_example">
